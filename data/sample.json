@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": "a1",
+      "stage": 1,
+      "result": 1,
+      "decision": "continue"
+    },
+    {
+      "id": "a2",
+      "stage": 1,
+      "result": 0,
+      "decision": "continue"
+    },
+    {
+      "id": "a3",
+      "stage": 2,
+      "result": 1,
+      "decision": "stop"
+    },
+    {
+      "id": "a4",
+      "stage": 2,
+      "result": 1,
+      "decision": "stop"
+    }
+  ]
+}
